@@ -50,3 +50,7 @@
 ## 结果
 <img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/5438f24a-f140-4786-9a74-d7c13001dafb" />
 
+# 第10讲 卷积神经网络（基础篇）
+
+## 结果
+<img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/515d3f73-146b-4740-82b3-53251c38a8a3" />
