@@ -54,3 +54,9 @@
 
 ## 结果
 <img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/515d3f73-146b-4740-82b3-53251c38a8a3" />
+
+#  第11讲 卷积神经网络（高级篇）
+
+## 结果
+<img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/225e5cc5-b039-4315-afb5-894af401b03e" />
+
