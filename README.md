@@ -60,3 +60,9 @@
 ## 结果
 <img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/225e5cc5-b039-4315-afb5-894af401b03e" />
 
+# 第12讲 循环神经网络（基础篇）
+
+## 结果
+<img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/b385b467-ea0d-4c6b-985d-9780371edc8c" />
+
+
