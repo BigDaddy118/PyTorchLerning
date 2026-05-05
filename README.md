@@ -65,4 +65,8 @@
 ## 结果
 <img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/b385b467-ea0d-4c6b-985d-9780371edc8c" />
 
+# 第13讲 循环神经网络（高级篇）
+
+## 结果
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/afb52f6d-1b31-4ae8-8090-e6778cd7655e" />
 
